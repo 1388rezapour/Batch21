@@ -4,4 +4,5 @@ public class Justice {
     // batman
     // wonderful
     // god bless you
+    // nice
 }
